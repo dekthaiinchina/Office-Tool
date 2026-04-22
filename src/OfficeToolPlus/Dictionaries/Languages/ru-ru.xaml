@@ -798,7 +798,7 @@
     <sys:String x:Key="Downloader_Cancel">Отмена</sys:String>
     <sys:String x:Key="Downloader_Percentage">Скачивание, {0} завершено.</sys:String>
     <sys:String x:Key="Downloader_Remaining">Скачивание, оставшееся время: {0}</sys:String>
-    <sys:String x:Key="Downloader_Writing">Writing data...</sys:String>
+    <sys:String x:Key="Downloader_Writing">Запись данных...</sys:String>
     <sys:String x:Key="Downloader_Pending">Ожидание</sys:String>
     <sys:String x:Key="Downloader_Pausing">Приостановка</sys:String>
     <sys:String x:Key="Downloader_Paused">Пауза</sys:String>
@@ -878,6 +878,7 @@
     <sys:String x:Key="Ques_Delete_vNextLicense">Вы уверены, что хотите удалить лицензию?</sys:String>
     <sys:String x:Key="Ques_Remove_Office">Вы согласны с очисткой от Office? После запуска эту операцию нельзя прервать.</sys:String>
     <sys:String x:Key="Ques_Invoke_Office_Update">Канал обновления был изменен, проверить наличие обновлений Office сейчас?</sys:String>
+    <sys:String x:Key="Ques_Restart_System_Now">Do you want to restart system now?</sys:String>
 
     <!-- Info Message -->
     <sys:String x:Key="Info_OS_Outdated">Ваша операционная система больше не поддерживается. Обновите операционную систему или скачайте и используйте старую версию Office Tool Plus.</sys:String>
