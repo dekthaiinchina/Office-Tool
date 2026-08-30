@@ -948,7 +948,7 @@
     <sys:String x:Key="Err_Reading_Info">An error occurred while reading Office information.</sys:String>
     <sys:String x:Key="Err_Saving_Info">An error occurred while saving Office information.</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Download">Unable to download Office, make sure you have added a product or language, then try again.</sys:String>
-    <sys:String x:Key="Err_Start_Deploy.Deploy">Unable to deploy Office, make sure you have set the basic settings correctly, then try again.</sys:String>
+    <sys:String x:Key="Err_Start_Deploy.Deploy">Unable to deploy Office, make sure you have set the deployment configuration correctly, then try again.</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Preferences">Unable to set the application preferences, make sure you have set the application preferences correctly, then try again.</sys:String>
     <!-- {0} means product name, for example: Microsoft 365 Apps for Enterprise. -->
     <sys:String x:Key="Err_Start_Deploy_ProductNotSupported">{0} is not supported on this version of Office.</sys:String>

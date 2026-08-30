@@ -948,7 +948,7 @@
     <sys:String x:Key="Err_Reading_Info">讀取 Office 資料嗰陣出錯。</sys:String>
     <sys:String x:Key="Err_Saving_Info">儲存 Office 資料嗰陣出錯。</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Download">下載唔到 Office。請確認你加咗產品或語言，然後再試過。</sys:String>
-    <sys:String x:Key="Err_Start_Deploy.Deploy">部署唔到 Office。請確認你正確設定咗基本設定，然後再試過。</sys:String>
+    <sys:String x:Key="Err_Start_Deploy.Deploy">部署唔到 Office。請確認你正確設定咗部署設定，然後再試過。</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Preferences">設定唔到應用程式首選項。請確認你正確設定咗應用程式首選項，然後再試過。</sys:String>
     <!-- {0} means product name, for example: Microsoft 365 Apps for Enterprise. -->
     <sys:String x:Key="Err_Start_Deploy_ProductNotSupported">呢個版本嘅 Office 唔支援安裝 {0}。</sys:String>

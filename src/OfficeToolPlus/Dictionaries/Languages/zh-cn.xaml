@@ -948,7 +948,7 @@
     <sys:String x:Key="Err_Reading_Info">读取 Office 信息时发生错误。</sys:String>
     <sys:String x:Key="Err_Saving_Info">保存 Office 信息时发生错误。</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Download">无法下载 Office。请确保您已添加产品或语言，然后重试。</sys:String>
-    <sys:String x:Key="Err_Start_Deploy.Deploy">无法部署 Office。请确保您已正确设置基本设置，然后重试。</sys:String>
+    <sys:String x:Key="Err_Start_Deploy.Deploy">无法部署 Office。请确保您已正确设置部署配置，然后重试。</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Preferences">无法设置应用程序首选项。请确保您已正确设置应用程序首选项，然后重试。</sys:String>
     <!-- {0} means product name, for example: Microsoft 365 Apps for Enterprise. -->
     <sys:String x:Key="Err_Start_Deploy_ProductNotSupported">此版本的 Office 不支持安装 {0}。</sys:String>
